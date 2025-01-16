@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p8YXE00i5hw=",
+  "dgSpecHash": "l0154tX6/Rc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Drenn\\source\\repos\\CIS_120\\HighScores\\HighScores.csproj",
+  "projectFilePath": "C:\\Users\\Drenn\\source\\repos\\CIS 150\\HighScores\\HighScores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
     "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
