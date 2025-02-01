@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "l0154tX6/Rc=",
+  "dgSpecHash": "zIyUU5p7qsU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Drenn\\source\\repos\\CIS 150\\HighScores\\HighScores.csproj",
+  "projectFilePath": "C:\\Users\\Drenn\\OneDrive\\Documents\\GitHub\\HighScores\\HighScores.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+    "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\Drenn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
   ],
   "logs": []
 }

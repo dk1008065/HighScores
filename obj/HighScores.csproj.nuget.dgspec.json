@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drenn\\source\\repos\\CIS 150\\HighScores\\HighScores.csproj": {}
+    "C:\\Users\\Drenn\\OneDrive\\Documents\\GitHub\\HighScores\\HighScores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drenn\\source\\repos\\CIS 150\\HighScores\\HighScores.csproj": {
+    "C:\\Users\\Drenn\\OneDrive\\Documents\\GitHub\\HighScores\\HighScores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drenn\\source\\repos\\CIS 150\\HighScores\\HighScores.csproj",
+        "projectUniqueName": "C:\\Users\\Drenn\\OneDrive\\Documents\\GitHub\\HighScores\\HighScores.csproj",
         "projectName": "HighScores",
-        "projectPath": "C:\\Users\\Drenn\\source\\repos\\CIS 150\\HighScores\\HighScores.csproj",
+        "projectPath": "C:\\Users\\Drenn\\OneDrive\\Documents\\GitHub\\HighScores\\HighScores.csproj",
         "packagesPath": "C:\\Users\\Drenn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drenn\\source\\repos\\CIS 150\\HighScores\\obj\\",
+        "outputPath": "C:\\Users\\Drenn\\OneDrive\\Documents\\GitHub\\HighScores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,19 +63,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.12, 8.0.12]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.12, 8.0.12]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.12, 8.0.12]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.12, 8.0.12]"
             }
           ],
           "frameworkReferences": {
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
